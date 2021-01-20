@@ -8,6 +8,7 @@ main {
   margin-top: 20px;
 }
 
+/* positioned images correctly and gave proper spacing */
 img {
   height: 250px;
   width: 250px;
@@ -15,12 +16,14 @@ img {
   margin-bottom: 5px;
   float: left;
 }
+/* added personalized background */
 body {
   background-image: url("./assets/background.png");
   width: 100%;
   background-size: cover;
 }
 
+/* personalized fonts with colors and font styles */
 h1,
 p,
 label {
@@ -29,15 +32,12 @@ label {
   line-height: 150%;
 }
 
+/* specified font size for headers */
 h1 {
   font-size: 50px;
 }
 
+/* specified font size for paragraphs */
 p {
   font-size: 20px;
-}
-
-button {
-  background-color: cornflowerblue;
-  color: whitesmoke;
 }
