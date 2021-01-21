@@ -1,6 +1,6 @@
 # Stephen-McNamara-Portfolio
 
-Here we were to implement our existing knowledge of Bootstrap, HTML, and CSS to create a portfolio website for ourselves. This task was challenging, but I am very happy with the result considering we are only a little over a week into our bootcamp. Bootstrap is a powerful tool, indeed, and makes the creation of visually appealing web pages pretty painless.
+On this assignment, we were to implement our existing knowledge of Bootstrap, HTML, and CSS to create a portfolio website for ourselves. This task was challenging, but I am very happy with the result considering we are only a little over a week into our bootcamp. Bootstrap is a powerful tool, indeed, and makes the creation of visually appealing web pages pretty painless.
 
 To start off, I scoured the Bootstrap documentation to try and give myself a better understanding of how it works and fit into the scope of this task. I then created three html files for each page of the website (About, Contact, and Portfolio). After copying the necessary links for cdn delivery networks, I added respective elements to each html page. I tried to use semantic tags wherever possible and create a grid layout in regard to Bootstrap set up.
 
