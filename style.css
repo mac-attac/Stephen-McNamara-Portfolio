@@ -10,8 +10,8 @@ main {
 
 /* positioned images correctly and gave proper spacing */
 img {
-  height: 250px;
-  width: 250px;
+  height: 400px;
+  width: 400px;
   margin-right: 15px;
   margin-bottom: 5px;
   float: left;
@@ -26,8 +26,9 @@ body {
 /* personalized fonts with colors and font styles */
 h1,
 p,
-label {
-  color: #06a379;
+label,
+a {
+  color: navy;
   font-family: "Fjalla One", sans-serif;
   line-height: 150%;
 }
