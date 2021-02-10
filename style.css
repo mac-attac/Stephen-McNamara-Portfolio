@@ -42,3 +42,25 @@ h1 {
 p {
   font-size: 20px;
 }
+
+.feed {
+  max-height: 300px;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+}
+
+.pass-gen {
+  float: right;
+  max-height: 300px;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+}
+
+.day-plan {
+  max-height: 300px;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+}
