@@ -50,7 +50,7 @@ p {
   height: auto;
 }
 
-.pass-gen {
+.vax {
   float: right;
   max-height: 300px;
   max-width: 600px;
@@ -59,6 +59,14 @@ p {
 }
 
 .day-plan {
+  max-height: 300px;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+}
+
+.pass-gen {
+  float: right;
   max-height: 300px;
   max-width: 600px;
   width: auto;
